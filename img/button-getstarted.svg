@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119" height="40" viewBox="0 0 119 40">
+  <g id="button" transform="translate(-1141 -25)">
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(1141 25)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="119" height="40" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="118" height="39" rx="19.5" fill="none"/>
+    </g>
+    <text id="Get_started" data-name="Get started" transform="translate(1161 50)" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Get started</tspan></text>
+  </g>
+</svg>
